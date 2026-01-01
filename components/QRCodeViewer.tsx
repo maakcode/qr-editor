@@ -130,7 +130,7 @@ export function QRCodeViewer() {
         ) : error ? (
           <p className="text-red-500 text-sm">{error}</p>
         ) : (
-          <p className="text-slate-400 text-sm italic">
+          <p className="text-slate-400 text-sm">
             이미지를 업로드하면 결과가 여기에 표시됩니다.
           </p>
         )}
