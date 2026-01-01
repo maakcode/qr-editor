@@ -1,11 +1,13 @@
 {
   "name": "qr-editor",
   "version": "0.1.0",
+  "homepage": "https://maakcode.github.io/qr-editor",
   "private": true,
   "scripts": {
     "dev": "next dev --webpack",
     "build": "next build --webpack",
-    "start": "next start --webpack",
+    "start": "npx serve@latest out",
+    "deploy": "gh-pages -d out -r https://github.com/maakcode/qr-editor -f -t",
     "lint": "eslint"
   },
   "dependencies": {
@@ -16,12 +18,14 @@
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
+    "@types/gh-pages": "^6",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "babel-plugin-react-compiler": "1.0.0",
     "eslint": "^9",
     "eslint-config-next": "16.1.1",
+    "gh-pages": "^6.3.0",
     "tailwindcss": "^4",
     "typescript": "^5"
   },
