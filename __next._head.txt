@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[7941,[],"ViewportBoundary"]
+3:I[7941,[],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[3456,[],"IconMark"]
+0:{"buildId":"d29v5SqZRmsr_01t93Otg","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"QR Editor"}],["$","meta","1",{"name":"description","content":"Generate and Edit QR Codes"}],["$","link","2",{"rel":"icon","href":"/qr-editor/favicon.ico?a2c6cea668ef95fd","type":"image/x-icon","sizes":"256x256"}],["$","$L5","3",{}]]}]}]}],null]}],"loading":null,"isPartial":false}

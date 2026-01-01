@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[1592,[],""]
+3:I[2382,[],""]
+:HL["/qr-editor/_next/static/css/1935fb076b5adb25.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&display=swap","style"]
+0:{"buildId":"d29v5SqZRmsr_01t93Otg","rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/qr-editor/_next/static/css/1935fb076b5adb25.css","precedence":"next"}]],["$","html",null,{"lang":"ko","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"font-sans antialiased bg-slate-50 text-slate-900","children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]}]]}]]}],"loading":null,"isPartial":false}
