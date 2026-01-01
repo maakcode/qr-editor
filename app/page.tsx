@@ -14,7 +14,7 @@ export default function Home() {
         <p className="text-slate-500">QR 코드를 생성하고 내용을 확인하세요</p>
       </header>
 
-      <div className="w-full max-w-md bg-white rounded-xl shadow-lg overflow-hidden border border-slate-100">
+      <div className="w-full max-w-xl bg-white rounded-xl shadow-lg overflow-hidden border border-slate-100">
         <div className="flex border-b border-slate-200">
           <button
             onClick={() => setActiveTab("create")}
